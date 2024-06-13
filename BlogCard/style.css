@@ -1,0 +1,43 @@
+/**
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 900*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Figtree", sans-serif;
+  }
+  /* I got this from youtube. I couldnt figure out how to center
+     the image and keep the text alignment to the left. This helped */
+  body{
+      background-color: hsl(47, 88%, 63%);
+      
+     
+    
+  }
+   #preview-card-container{
+    width: 384px;
+    height: 565px;
+    background: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 8px 8px 0px 0px;
+    padding: 18px;
+    margin: 48px auto;
+   }
+  
+   .preview-card-img{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+   }
+  
+   .preview-card-img{
+    border-radius: 10px;
+   }
+  
+   .preview-card-text{
+    margin-top: 18px;
+    margin-left: 5px;
+   }

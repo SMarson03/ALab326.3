@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/qr-code-component-main/qr-code-component-main/images"
+		},
+		{
+			"path": "../../Downloads/qr-code-component-main/qr-code-component-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "qrcode"
+	}
+}
